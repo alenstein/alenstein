@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alenstein
 - 👀 I’m interested in software engineering, embedded systems,control and instrumentation
-- 🌱 I’m currently learning c, c++ and java 
+- 🌱 I’m currently learning c, c++, python and java 
 - 💞️ I’m looking to collaborate on ambitious projects on Internet Of Things and embedded systems
 - 📫 How to reach me +263771258933 or allenalaska1@gmail.com
 

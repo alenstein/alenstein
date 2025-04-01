@@ -16,7 +16,7 @@
 - 🌍 I am constantly exploring new advancements and ways to make an impact through technology.
 - 💡 Check out my project work on **[GitHub](https://github.com/alenstein)**.
 - 📫 Reach me at **sibandallen@gmail.com** for collaborations or opportunities!
-- 🖥️ Check out my **[portfolio website](https://alenstein.github.io/portfolio-website/)**
+- 🖥️ Check out my **[portfolio website](https:portfolio.sibandallen.co.zw/)**
 
 <br><br>
 
